@@ -9,7 +9,7 @@
     -
     <a href="https://www.instagram.com/jxnnik.official/">Instagram</a>
     -
-    <a href="https://github.com/ByRaudy?tab=repositories">Repositories</a>
+    <a href="https://github.com/Jxnnikk?tab=repositories">Repositories</a>
     </p>
   <br>
   <p align="center">
