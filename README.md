@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">ByRaudy | Jannik H.</h3>
+  <h3 align="center">Jannik H.</h3>
   <p align="center">
     Developer from germany, 16 years old and founder of <a href="https://github.com/TeriumCloud/Terium">TeriumCloud</a>
     <br>
