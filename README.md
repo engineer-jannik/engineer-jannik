@@ -3,7 +3,7 @@
 
   <h3 align="center">Jannik H.</h3>
   <p align="center">
-    Developer from germany, 16 years old and founder of <a href="https://github.com/TeriumCloud/Terium">TeriumCloud</a>
+    Software developer in Java & Kotlin, 16 years old and founder of <a href="https://github.com/TeriumCloud/Terium">TeriumCloud</a>
     <br>
     <a href="https://twitter.com/ByRaudy">Twitter</a>
     -
