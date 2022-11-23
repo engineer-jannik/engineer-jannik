@@ -5,7 +5,7 @@
   <p align="center">
     Software developer in Java & Kotlin, 16 years old and founder of <a href="https://github.com/TeriumCloud/Terium">TeriumCloud</a>
     <br>
-    My <a href="https://twitter.com/ByRaudy"> Twitter</a>,
+    Checkout my <a href="https://twitter.com/ByRaudy"> Twitter</a>,
     <a href="https://www.instagram.com/jxnnik.official/">Instagram</a>
     and 
     <a href="https://github.com/ByRaudy?tab=repositories">Repositories</a>
