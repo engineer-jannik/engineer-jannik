@@ -1,24 +1,16 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Jannik H.</h3>
+  <h3 align="center">ByRaudy | Jannik H.</h3>
   <p align="center">
     Software developer in Java & Kotlin, 16 years old and founder of <a href="https://github.com/TeriumCloud/Terium">TeriumCloud</a>
     <br>
-    <a href="https://twitter.com/ByRaudy">Twitter</a>
-    -
+    My <a href="https://twitter.com/ByRaudy"> Twitter</a>,
     <a href="https://www.instagram.com/jxnnik.official/">Instagram</a>
-    -
+    and 
     <a href="https://github.com/ByRaudy?tab=repositories">Repositories</a>
     </p>
   <br>
-  <p align="center">
-  Developer at
-  </p>
-  <div align="center">
-  <a href="https://neptunsworld.com"><img align="center" alt="neptunsworld" width="45px" src="https://avatars.githubusercontent.com/u/105994898?s=200&v=4"></a>
-  & <a href="https://cafestu.be"><img align="center" alt="cafestube" width="45px" src="https://avatars.githubusercontent.com/u/73401500?s=200&v=4"></a>
-  </div>
   <br>
   <p align="center">
   My knowledgement:
@@ -33,9 +25,9 @@
   
   <img align="center" alt="html" width="26px" src="https://cdn-icons-png.flaticon.com/512/136/136528.png">
   
-  <img align="center" alt="css" width="26px" src="https://cdn-icons-png.flaticon.com/512/136/136527.png">
+  <!--<img align="center" alt="css" width="26px" src="https://cdn-icons-png.flaticon.com/512/136/136527.png">
   
-  <img align="center" alt="php" width="26px" src="https://cdn-icons-png.flaticon.com/512/2721/2721652.png">
+  <img align="center" alt="php" width="26px" src="https://cdn-icons-png.flaticon.com/512/2721/2721652.png">-->
   
   <img align="center" alt="git" width="26px" src="https://cdn-icons-png.flaticon.com/512/1240/1240970.png">
   
