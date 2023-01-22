@@ -25,6 +25,8 @@
   
   <img align="center" alt="html" width="26px" src="https://cdn-icons-png.flaticon.com/512/136/136528.png">
   
+  <img align="center" alt="tailwindcss" width="26px" src="https://cdn-icons-png.flaticon.com/512/136/136527.png">
+      
   <!--<img align="center" alt="css" width="26px" src="https://cdn-icons-png.flaticon.com/512/136/136527.png">
   
   <img align="center" alt="php" width="26px" src="https://cdn-icons-png.flaticon.com/512/2721/2721652.png">-->
