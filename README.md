@@ -36,4 +36,11 @@
   <img align="center" alt="github" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png">
   </div>
   </p> 
+  <br>
+  <p align="center">
+  Counter who counts something:
+    <div align="center">
+  <img align="center" alt="github" width="170px" src="https://profile-counter.glitch.me/ByRaudy/count.svg">
+  </div>
+  </p> 
 </p>
