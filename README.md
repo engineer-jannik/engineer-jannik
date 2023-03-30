@@ -35,7 +35,14 @@
   
   <img align="center" alt="github" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png">
   </div>
-  </p> 
+  </p>
+  <br>
+  <p align="center">
+  My GitHub Stats:
+    <div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ByRaudy&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="ByRaudy's Github Stats" />
+  </div>
+  </p>
   <br>
   <p align="center">
   Counter who counts something:
