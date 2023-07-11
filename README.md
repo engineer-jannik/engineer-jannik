@@ -3,7 +3,7 @@
 
   <h3 align="center">ByRaudy | Jannik H.</h3>
   <p align="center">
-    Software developer in Java and Kotlin - 16 years old
+    Software developer in Java and Kotlin - 17 years old
     <br>
     Checkout my <a href="https://twitter.com/ByRaudy"> Twitter</a>,
     <a href="https://www.instagram.com/jxnnik.official/">Instagram</a>
