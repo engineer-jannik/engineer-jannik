@@ -5,8 +5,7 @@
   <p align="center">
     Software developer in Java and Kotlin - 17 years old
     <br>
-    Checkout my <a href="https://twitter.com/ByRaudy"> Twitter</a>,
-    <a href="https://www.instagram.com/jxnnik.official/">Instagram</a>
+    Checkout my <a href="https://www.instagram.com/anwalt.jannik/">Instagram</a>
     and 
     <a href="https://github.com/ByRaudy?tab=repositories">Repositories</a>
     </p>
