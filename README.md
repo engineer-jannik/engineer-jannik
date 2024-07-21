@@ -1,9 +1,11 @@
 <br />
 <p align="center">
 
-  <h3 align="center">ByRaudy | Jannik H.</h3>
+  <h3 align="center">Jannik H.</h3>
   <p align="center">
-    Software developer in Java and Kotlin - 18 years old
+    Software Engineer working with Java, Kotlin and Swift.
+    IT-Trainee at <a href="https://www.steute.com">steute Technologies</a>
+    CEO at <a href="https://hegemann.solutions">hegemann.solutions</a>
     <br>
     Checkout my <a href="https://www.instagram.com/anwalt.jannik/">Instagram</a>
     and 
