@@ -46,10 +46,4 @@
   </div>
   </p>
   <br>
-  <p align="center">
-  Counter who counts something:
-    <div align="center">
-  <img align="center" alt="github" width="170px" src="https://profile-counter.glitch.me/ByRaudy/count.svg">
-  </div>
-  </p> 
 </p>
