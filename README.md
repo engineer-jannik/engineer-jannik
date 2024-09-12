@@ -10,7 +10,7 @@
     <br>
     Checkout my <a href="https://www.instagram.com/anwalt.jannik/">Instagram</a>
     and 
-    <a href="https://github.com/ByRaudy?tab=repositories">Repositories</a>
+    <a href="https://github.com/engineer-jannik?tab=repositories">Repositories</a>
     </p>
   <br>
   <br>
