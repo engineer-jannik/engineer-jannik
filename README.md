@@ -42,7 +42,7 @@
   <p align="center">
   My GitHub Stats:
     <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jxnnikdev&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="ByRaudy's Github Stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=engineer-jannik&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="ByRaudy's Github Stats" />
   </div>
   </p>
   <br>
