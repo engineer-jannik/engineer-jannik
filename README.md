@@ -1,47 +1,49 @@
-<br />
-<p align="center">
+<div style="font-family: Arial, sans-serif; line-height: 1.8; padding: 20px; max-width: 800px; margin: auto;">
+  <h1 style="font-size: 2rem; color: #4CAF50; border-bottom: 2px solid #4CAF50; padding-bottom: 10px;">👋 About Me</h1>
+  <p style="font-size: 1.1rem; color: #333;">
+    Hi there 👋, I'm <strong>Jannik H.</strong>, an 18-year-old application development trainee at a German company and a passionate Software Engineer. I have professional experience in Java, Kotlin, Swift, PHP, and SQL-based databases.
+  </p>
 
-  <h3 align="center">Jannik H.</h3>
-  <p align="center">
-    Software Engineer working with Java, Kotlin, Swift, PHP and sql based databases.<br>
-    <br>
-    <br>
-    Checkout my <a href="https://www.instagram.com/anwalt.jannik/">Instagram</a>
-    and 
-    <a href="https://github.com/engineer-jannik?tab=repositories">Repositories</a>
-    </p>
-  <br>
-  <br>
-  <p align="center">
-  My knowledgement:
-    <div align="center">
-  <img align="center" alt="intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png">
-  
-  <img align="center" alt="java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  
-  <img align="center" alt="kotlin" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18852341021548218200-512.png">
-  
-  <img align="center" alt="mysql" width="26px" src="https://cdn-icons-png.flaticon.com/512/288/288880.png">
-  
-  <img align="center" alt="html" width="26px" src="https://cdn-icons-png.flaticon.com/512/136/136528.png">
-  
-  <img align="center" alt="tailwindcss" width="26px" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
-      
-  <!--<img align="center" alt="css" width="26px" src="https://cdn-icons-png.flaticon.com/512/136/136527.png">-->
-  
-  <img align="center" alt="php" width="26px" src="https://cdn-icons-png.flaticon.com/512/2721/2721652.png">
-  
-  <img align="center" alt="git" width="26px" src="https://cdn-icons-png.flaticon.com/512/1240/1240970.png">
-  
-  <img align="center" alt="github" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png">
-  </div>
+  <h2 style="color: #4CAF50; margin-top: 30px;">📫 Connect</h2>
+  <p>
+    You can reach out to me on the following platforms:
   </p>
-  <br>
-  <p align="center">
-  My GitHub Stats:
-    <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=engineer-jannik&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="ByRaudy's Github Stats" />
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="margin: 10px 0;">
+      <a href="https://www.instagram.com/bozz.jannik/" style="text-decoration: none; color: #3f729b; font-weight: bold; display: flex; align-items: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="25" style="margin-right: 10px;">
+        Instagram
+      </a>
+    </li>
+    <li style="margin: 10px 0;">
+      <a href="https://github.com/engineer-jannik?tab=repositories" style="text-decoration: none; color: #000; font-weight: bold; display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" style="margin-right: 10px;">
+        GitHub Repositories
+      </a>
+    </li>
+  </ul>
+
+  <h2 style="color: #4CAF50; margin-top: 30px;">🔭 Projects</h2>
+  <ul style="padding-left: 20px;">
+    <li><strong>[TeriumCloud](https://github.com/TeriumCloud):</strong> Minecraft cloud system to manage minecraft networks easier.</li>
+    <li><strong>[Kubit-Hosting](https://github.com/Kubit-Hosting):</strong> A hosting provider with big base in backend and frontend.</li>
+  </ul>
+
+  <h2 style="color: #4CAF50; margin-top: 30px;">💻 Technologies & Tools</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <div style="text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
   </div>
-  </p>
-  <br>
-</p>
+
+  <h2 style="color: #4CAF50; margin-top: 30px;">⚡ GitHub Stats</h2>
+  <div style="margin: 20px 0;">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=engineer-jannik&include_all_commits=true&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="border-radius: 8px;">
+  </div>
+</div>
