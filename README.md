@@ -25,8 +25,8 @@
 
   <h2 style="color: #4CAF50; margin-top: 30px;">🔭 Projects</h2>
   <ul style="padding-left: 20px;">
-    <li><strong><a href="https://github.com/TeriumCloud">TeriumCloud</a>:</strong> Minecraft cloud system to manage minecraft networks easier.</li>
-    <li><strong><a href="https://github.com/Kubit-Hosting">Kubit-Hosting</a>:</strong> A hosting provider with big base in backend and frontend.</li>
+    <li><strong><a href="https://github.com/TeriumCloud">TeriumCloud</a>:</strong> A Minecraft cloud system designed to simplify the management of Minecraft networks.</li>
+    <li><strong><a href="https://github.com/Kubit-Hosting">Kubit-Hosting</a>:</strong> A hosting provider with a strong foundation in both backend and frontend solutions.</li>
   </ul>
 
   <h2 style="color: #4CAF50; margin-top: 30px;">💻 Technologies & Tools</h2>
