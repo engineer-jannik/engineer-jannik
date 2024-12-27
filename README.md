@@ -3,9 +3,7 @@
 
   <h3 align="center">Jannik H.</h3>
   <p align="center">
-    Software Engineer working with Java, Kotlin and Swift.<br>
-    IT-Trainee at <a href="https://www.steute.com">steute Technologies</a><br>
-    CEO at <a href="https://hegemann.solutions">hegemann.solutions</a>
+    Software Engineer working with Java, Kotlin, Swift, PHP and sql based databases.<br>
     <br>
     <br>
     Checkout my <a href="https://www.instagram.com/anwalt.jannik/">Instagram</a>
