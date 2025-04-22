@@ -23,7 +23,7 @@
     </li>
   </ul>
 
-  <h2 style="color: #4CAF50; margin-top: 30px;">🔭 Projects</h2>
+  <h2 style="color: #4CAF50; margin-top: 30px;">🔭 Old Projects (for references)</h2>
   <ul style="padding-left: 20px;">
     <li><strong><a href="https://github.com/TeriumCloud">TeriumCloud</a>:</strong> A Minecraft cloud system designed to simplify the management of Minecraft networks.</li>
     <li><strong><a href="https://github.com/Kubit-Hosting">Kubit-Hosting</a>:</strong> A hosting provider with a strong foundation in both backend and frontend solutions.</li>
