@@ -1,7 +1,7 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.8; padding: 20px; max-width: 800px; margin: auto;">
   <h1 style="font-size: 2rem; color: #4CAF50; border-bottom: 2px solid #4CAF50; padding-bottom: 10px;">👋 About Me</h1>
   <p style="font-size: 1.1rem; color: #333;">
-    Hi there 👋, I'm <strong>Jannik H.</strong>, an 18-year-old application development trainee at a German company and a passionate Software Engineer. I have professional experience in Java, Kotlin, Swift, PHP, and SQL-based databases.
+    Hi there 👋, I'm <strong>Jannik H.</strong>, an 19-year-old application development trainee at a German company and a passionate Software Engineer. I have professional experience in Java, Kotlin, Swift, PHP, and SQL-based databases.
   </p>
 
   <h2 style="color: #4CAF50; margin-top: 30px;">📫 Connect</h2>
