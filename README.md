@@ -15,12 +15,6 @@
         Instagram
       </a>
     </li>
-    <li style="margin: 10px 0;">
-      <a href="https://github.com/engineer-jannik?tab=repositories" style="text-decoration: none; color: #000; font-weight: bold; display: flex; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" style="margin-right: 10px;">
-        GitHub Repositories
-      </a>
-    </li>
   </ul>
 <h2 style="color: #4CAF50; margin-top: 30px;">🔭 Current Projects</h2>
   <ul style="padding-left: 20px;">
