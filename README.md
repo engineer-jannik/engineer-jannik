@@ -16,6 +16,25 @@
       </a>
     </li>
   </ul>
+<h2 style="color: #4CAF50; margin-top: 30px;">🎯 Current Interests & Learning Goals</h2>
+<ul style="padding-left: 20px;">
+  <li>
+    <strong>Linux System Administration:</strong> Managing, optimizing, and securing Linux-based systems in both development and production environments.
+  </li>
+  <li>
+    <strong>Linux Administration Tools:</strong> Building custom tools and utilities to automate and simplify Linux system administration tasks.
+  </li>
+  <li>
+    <strong>Virtualization & Proxmox:</strong> Working with Proxmox for virtualization, container workloads, and efficient infrastructure management.
+  </li>
+  <li>
+    <strong>IT Networks:</strong> Understanding network fundamentals, server networking, and infrastructure communication.
+  </li>
+  <li>
+    <strong>Upcoming Learning Goals:</strong> Kubernetes orchestration, deepening my Docker knowledge, cloud infrastructure concepts, and scalable, cloud-native architectures.
+  </li>
+</ul>
+  
 <h2 style="color: #4CAF50; margin-top: 30px;">🔭 Current Projects</h2>
   <ul style="padding-left: 20px;">
     <li><strong><a href="https://github.com/hesda-company">HESDA</a>:</strong> A company I wanna build that provides open-source software utils for automation and data management.</li>
