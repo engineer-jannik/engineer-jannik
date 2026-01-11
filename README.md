@@ -37,7 +37,7 @@
   
 <h2 style="color: #4CAF50; margin-top: 30px;">🔭 Current Projects</h2>
   <ul style="padding-left: 20px;">
-    <li><strong><a href="https://github.com/hesda-company">HESDA</a>:</strong> A company I wanna build that provides open-source software utils for automation and data management.</li>
+    <li><strong><a href="https://github.com/the-system-network">The System Network</a>:</strong> A organisation that provides many tools based on macos for system administration.</li>
   </ul>
   
   <h2 style="color: #4CAF50; margin-top: 30px;">🔭 Old Projects (for references)</h2>
