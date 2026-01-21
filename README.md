@@ -37,7 +37,7 @@
   
 <h2 style="color: #4CAF50; margin-top: 30px;">🔭 Current Projects</h2>
   <ul style="padding-left: 20px;">
-    <li><strong><a href="https://github.com/engineer-jannik/TeriumCloud">TeriumCloud v2</a>:</strong> A Minecraft cloud system designed to simplify the management of Minecraft networks. (Now with docker)</li>
+    <li><strong><a href="https://github.com/terium-cloud">TeriumCloud v2</a>:</strong> A Minecraft cloud system designed to simplify the management of Minecraft networks. (Now with docker)</li>
   </ul>
   
   <h2 style="color: #4CAF50; margin-top: 30px;">🔭 Old Projects (for references)</h2>
